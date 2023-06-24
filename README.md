@@ -1,6 +1,6 @@
 <h1> Server en Py - Crud</h1>
 <h3> Descripcion del proyecto</h3>
-<p>Servidor Py permitira acceder a un crud teniendo como base HTML y como lenguaje princiapl Python</p>
+<p>Servidor Py permitira acceder a un crud teniendo como base HTML y como lenguaje principal Python</p>
 
 ## :hammer:Funcionalidades del proyecto
 
